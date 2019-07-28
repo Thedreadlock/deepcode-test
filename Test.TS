@@ -1,5 +1,6 @@
-let as: number;
-let b: number;
+Class Main()
+int as;
+int b;
 a = Randbetween(1, 3);
 if ((a == 1)) {
     b = 2;
