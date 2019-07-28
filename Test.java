@@ -1,4 +1,3 @@
-Class Main()
 int as;
 int b;
 a = Randbetween(1, 3);
